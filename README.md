@@ -2,4 +2,5 @@
 Creating a new branch is quick.
 Creating a new branch is quick.
 
-hahha  i am master
+careat a new feature
+this is feature1
